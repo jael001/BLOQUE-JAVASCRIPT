@@ -1,18 +1,17 @@
 const producto = "Audifonos Gamer"; // iniciar variable y asignarle 
 
-const disponible; //iniociamos la variable pero sin valor ]
+let disponible = true; //iniociamos la variable pero sin valor ]
 
 //producto = true //reasignando el valor de la variable
 
-disponible = true;
+ disponible = true;
 
 const producto1 = "computadora",
     disponible1 = true,
     categoria = "computadoras";
-
 // var disponible
 
-const disponible_;
+const disponible_ = true;
 
 // estilos para las variables 
 const nombre_producto = "Monitor HD"; //underscore
